@@ -1,0 +1,17 @@
+{
+  "name": "delenitiut",
+  "version": "1.0.0",
+  "description": "like web3 but for minimalists",
+  "main": "index.js",
+  "author": "BellaKilback",
+  "license": "ISC",
+  "dependencies": {
+    "json-rpc-random-id": "^1.0.0",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoraceBarrows/delenitiut.git"
+  }
+}
